@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846b2095-8c8d-48cc-8051-f2837ea84e79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec01/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec01/publisher/PublisherImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec01/publisher/SubscriptionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec01/subscriber/SubscriberImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec01LazySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec02MonoJust.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec03MonoSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/common/DefaultSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/common/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec04MonoEmptyError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec05MonoFromSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec06MonoFromCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec07MonoFromRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec08MonoFromFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec02/Lec10MonoDefer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2vxDfbMcSPKSfmD28Z97I5AgecC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +44,13 @@
     "Application.Lec01LazySystem.executor": "Run",
     "Application.Lec02MonoJust.executor": "Run",
     "Application.Lec03MonoSubscriber.executor": "Run",
+    "Application.Lec04MonoEmpty.executor": "Run",
+    "Application.Lec05MonoFromSupplier.executor": "Run",
+    "Application.Lec06MonoFromCallable.executor": "Run",
+    "Application.Lec07MonoFromRunnable.executor": "Run",
+    "Application.Lec08MonoFromFuture.executor": "Run",
+    "Application.Lec10MonoDefer.executor": "Run",
+    "Application.Util.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,6 +62,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reactor",
     "vue.rearranger.settings.migration": "true"
   }
@@ -65,22 +72,14 @@
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Lec03MonoSubscriber">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec01.Demo" />
-      <module name="01-reactive-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lec01LazySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec01LazySystem" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vinsguru.sec02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lec10MonoDefer">
+    <configuration name="Lec05MonoFromSupplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec05MonoFromSupplier" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec02MonoJust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec02MonoJust" />
+    <configuration name="Lec06MonoFromCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec06MonoFromCallable" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec03MonoSubscriber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec03MonoSubscriber" />
+    <configuration name="Lec07MonoFromRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec07MonoFromRunnable" />
+      <module name="01-reactive-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinsguru.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec08MonoFromFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec08MonoFromFuture" />
+      <module name="01-reactive-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinsguru.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec10MonoDefer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec02.Lec10MonoDefer" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
@@ -120,10 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lec03MonoSubscriber" />
-        <item itemvalue="Application.Lec02MonoJust" />
-        <item itemvalue="Application.Lec01LazySystem" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Lec10MonoDefer" />
+        <item itemvalue="Application.Lec08MonoFromFuture" />
+        <item itemvalue="Application.Lec07MonoFromRunnable" />
+        <item itemvalue="Application.Lec06MonoFromCallable" />
+        <item itemvalue="Application.Lec05MonoFromSupplier" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +169,8 @@
       <option name="presentableId" value="Default" />
       <updated>1745077935650</updated>
       <workItem from="1745077937095" duration="10239000" />
+      <workItem from="1745772452292" duration="5626000" />
+      <workItem from="1745820158390" duration="3291000" />
     </task>
     <servers />
   </component>
