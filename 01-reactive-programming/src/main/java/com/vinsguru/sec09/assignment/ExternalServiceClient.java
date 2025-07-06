@@ -15,15 +15,15 @@ public class ExternalServiceClient extends AbstractHttpClient {
     }
 
     private Mono<String> getProductName(int productId) {
-        return get("/demo01/product/" + productId);
+        return get("/demo05/product/" + productId);
     }
 
     private Mono<String> getReview(int productId) {
-        return get("/demo01/review/" + productId);
+        return get("/demo05/review/" + productId);
     }
 
     private Mono<String> getPrice(int productId) {
-        return get("/demo01/price/" + productId);
+        return get("/demo05/price/" + productId);
     }
 
     private Mono<String> get(String path) {

@@ -5,45 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846b2095-8c8d-48cc-8051-f2837ea84e79" name="Changes" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec08/Lec01BackPressureHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec08/Lec02LimitRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec08/Lec03MultipleSubscribers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec08/Lec04FluxCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec08/Lec05BackPressureStrategies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec01StartWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec02StartWithUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec03ConcatWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec04ConcatError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec05Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec06MergeUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec07Zip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec08ZipAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec09MonoFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec10FlatMapMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec11FluxFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec12FluxFlatMapAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec13ConcatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec14CollectList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec15Then.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/Lec16Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/applications/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/applications/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/applications/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/applications/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/applications/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/assignment/ExternalServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/assignment/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/AmericanAirline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/Emirates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/Kayak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/NameGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/helper/Qatar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webflux-playground/src/main/java/com/vinsguru/webflux_playground/sec01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webflux-playground/src/main/java/com/vinsguru/webflux_playground/sec01/ReactiveWebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webflux-playground/src/main/java/com/vinsguru/webflux_playground/sec01/TraditionalWebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec01Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec02BufferAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec03Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec04WindowAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec05GroupedFlux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/Lec06GroupByAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/assignment/buffer/BookOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/assignment/buffer/RevenueReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/assignment/groupby/OrderProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/assignment/groupby/PurchaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec10/assignment/window/FIleWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/Lec01Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/Lec02Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/Lec03ExternalServiceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/client/ClientError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/client/ExternalServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec11/client/ServerError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec01SinkOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec02SinkUniCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec03SinkThreadSafety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec04Multicast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec05MulticastDirectBestEffort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec06MulticastDirectAllOrNothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec07Replay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/Lec08SlackAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/assignment/SlackMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/assignment/SlackMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec12/assignment/SlackRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/Lec01Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/Lec02ContextAppendUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/Lec03ContextPropagation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/Lec04ContentRateLimiterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/client/ExternalServiceClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/client/RateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec13/client/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinsguru/common/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/common/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/assignment/ExternalServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinsguru/sec09/assignment/ExternalServiceClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,107 +68,128 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Demo.executor": "Run",
-    "Application.Lec01BackPressureHandling.executor": "Run",
-    "Application.Lec01ColdPublisher.executor": "Debug",
-    "Application.Lec01DefaultBehaviorDemo.executor": "Run",
-    "Application.Lec01FluxCreate.executor": "Run",
-    "Application.Lec01Handle.executor": "Run",
-    "Application.Lec01Just.executor": "Run",
-    "Application.Lec01LazySystem.executor": "Run",
-    "Application.Lec01StartWith.executor": "Run",
-    "Application.Lec02FluxCreateRefactor.executor": "Run",
-    "Application.Lec02HotPublisher.executor": "Run",
-    "Application.Lec02LimitRate.executor": "Run",
-    "Application.Lec02MonoJust.executor": "Run",
-    "Application.Lec02MultipleSubscriber.executor": "Run",
-    "Application.Lec02StartWithUseCase.executor": "Run",
-    "Application.Lec02SubscribeOn.executor": "Run",
-    "Application.Lec03ConcatWith.executor": "Run",
-    "Application.Lec03DoCallbacks.executor": "Run",
-    "Application.Lec03FluxFromIterableOrArray.executor": "Run",
-    "Application.Lec03FluxSinkThreadSafety.executor": "Run",
-    "Application.Lec03HotPublisherAutoConnect.executor": "Debug",
-    "Application.Lec03MonoSubscriber.executor": "Run",
-    "Application.Lec03MultipleSubscribeOn.executor": "Run",
-    "Application.Lec03MultipleSubscribers.executor": "Run",
-    "Application.Lec04ConcatError.executor": "Run",
-    "Application.Lec04DelayElement.executor": "Run",
-    "Application.Lec04FluxCreate.executor": "Run",
-    "Application.Lec04FluxCreateDownstreamDemand.executor": "Run",
-    "Application.Lec04FluxCreateEmitOnDemand.executor": "Run",
-    "Application.Lec04FluxFromStream.executor": "Run",
-    "Application.Lec04MonoEmpty.executor": "Run",
-    "Application.Lec04VirtualThreads.executor": "Run",
-    "Application.Lec05BackPressureStrategies.executor": "Run",
-    "Application.Lec05FluxCreatIssueFix.executor": "Run",
-    "Application.Lec05FluxFromRange.executor": "Run",
-    "Application.Lec05Merge.executor": "Run",
-    "Application.Lec05MonoFromSupplier.executor": "Run",
-    "Application.Lec05PublishOn.executor": "Debug",
-    "Application.Lec05Subscribe.executor": "Run",
-    "Application.Lec05TakeOperator.executor": "Run",
-    "Application.Lec06ErrorHandling.executor": "Run",
-    "Application.Lec06EventLoopIssueFix.executor": "Run",
-    "Application.Lec06FluxGenerate.executor": "Run",
-    "Application.Lec06Log.executor": "Run",
-    "Application.Lec06MergeUseCase.executor": "Run",
-    "Application.Lec06MonoFromCallable.executor": "Run",
-    "Application.Lec07DefaultIfEmpty.executor": "Run",
-    "Application.Lec07FluxGenerateUntil.executor": "Run",
-    "Application.Lec07FluxGenerateUtil.executor": "Run",
-    "Application.Lec07FluxVsList.executor": "Run",
-    "Application.Lec07MonoFromRunnable.executor": "Run",
-    "Application.Lec07PublishOnSubscribeOn.executor": "Debug",
-    "Application.Lec07Zip.executor": "Run",
-    "Application.Lec08GenerateWithState.executor": "Run",
-    "Application.Lec08MonoFromFuture.executor": "Run",
-    "Application.Lec08NonBlockingStreamingMessage.executor": "Run",
-    "Application.Lec08Parallel.executor": "Run",
-    "Application.Lec08ZipAssignment.executor": "Run",
-    "Application.Lec09Assignment.executor": "Debug",
-    "Application.Lec09FluxInternal.executor": "Run",
-    "Application.Lec09MonoFlatMap.executor": "Run",
-    "Application.Lec09Timeout.executor": "Run",
-    "Application.Lec10FlatMapMany.executor": "Run",
-    "Application.Lec10FluxEmptyOrError.executor": "Run",
-    "Application.Lec10MonoDefer.executor": "Run",
-    "Application.Lec10Transform.executor": "Run",
-    "Application.Lec11Assignment.executor": "Run",
-    "Application.Lec11BlockingIO.executor": "Run",
-    "Application.Lec11FluxDefer.executor": "Run",
-    "Application.Lec11FluxFlatMap.executor": "Run",
-    "Application.Lec11NonBlockingIO.executor": "Run",
-    "Application.Lec12Assignment.executor": "Run",
-    "Application.Lec12FluxFlatMapAssignment.executor": "Debug",
-    "Application.Lec12FluxMonoConversion.executor": "Run",
-    "Application.Lec13Assignment.executor": "Debug",
-    "Application.Lec13ConcatMap.executor": "Run",
-    "Application.Lec14CollectList.executor": "Run",
-    "Application.Lec15Then.executor": "Run",
-    "Application.Lec16Assignment.executor": "Run",
-    "Application.Util.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/nguyenquang/Documents/study/learn-spring-reactive/01-reactive-programming/src/main/java/com/vinsguru/sec08",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reactor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01BackPressureHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01Buffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01ColdPublisher.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec01Context.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01DefaultBehaviorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01FluxCreate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01Handle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01Just.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01LazySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01Repeat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01SinkOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec01StartWith.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02BufferAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02ContextAppendUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02FluxCreateRefactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02HotPublisher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02LimitRate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02MonoJust.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02MultipleSubscriber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02Retry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02SinkUniCast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02StartWithUseCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec02SubscribeOn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03ConcatWith.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03ContextPropagation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03DoCallbacks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03ExternalServiceDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03FluxFromIterableOrArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03FluxSinkThreadSafety.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03HotPublisherAutoConnect.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec03MonoSubscriber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03MultipleSubscribeOn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03MultipleSubscribers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03SinkThreadSafety.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec03Window.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec04ConcatError.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04ContentRateLimiterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04DelayElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04FluxCreate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04FluxCreateDownstreamDemand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04FluxCreateEmitOnDemand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04FluxFromStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04MonoEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04Multicast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04VirtualThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec04WindowAssignment.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec05BackPressureStrategies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05FluxCreatIssueFix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05FluxFromRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05GroupedFlux.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec05Merge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05MonoFromSupplier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05MulticastDirectBestEffort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05PublishOn.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec05Subscribe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec05TakeOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06ErrorHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06EventLoopIssueFix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06FluxGenerate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06GroupByAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06Log.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06MergeUseCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06MonoFromCallable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec06MulticastDirectAllOrNothing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07DefaultIfEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07FluxGenerateUntil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07FluxGenerateUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07FluxVsList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07MonoFromRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07PublishOnSubscribeOn.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec07Replay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec07Zip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08GenerateWithState.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08MonoFromFuture.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08NonBlockingStreamingMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08Parallel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08SlackAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec08ZipAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec09Assignment.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec09FluxInternal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec09MonoFlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec09Timeout.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10FlatMapMany.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10FluxEmptyOrError.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10MonoDefer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec10Transform.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11BlockingIO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11FluxDefer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11FluxFlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec11NonBlockingIO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec12Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec12FluxFlatMapAssignment.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec12FluxMonoConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec13Assignment.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec13ConcatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec14CollectList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec15Then.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec16Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Util.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nguyenquang/Documents/study/learn-spring-reactive/01-reactive-programming/src/main/java/com/vinsguru/sec08&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reactor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -182,20 +201,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinsguru/sec03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vinsguru.sec12" />
+      <recent name="com.vinsguru.sec11.client" />
+      <recent name="com.vinsguru.sec11" />
+      <recent name="com.vinsguru.sec10" />
       <recent name="com.vinsguru.sec09" />
-      <recent name="com.vinsguru.sec09.assignment" />
-      <recent name="com.vinsguru.sec09.helper" />
-      <recent name="com.vinsguru.sec08" />
-      <recent name="com.vinsguru.sec07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lec16Assignment">
-    <configuration name="Lec12FluxFlatMapAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec09.Lec12FluxFlatMapAssignment" />
+  <component name="RunManager" selected="Application.Lec04ContentRateLimiterDemo">
+    <configuration name="Lec01Context" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec13.Lec01Context" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec09.*" />
+          <option name="PATTERN" value="com.vinsguru.sec13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec13ConcatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec09.Lec13ConcatMap" />
+    <configuration name="Lec02ContextAppendUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec13.Lec02ContextAppendUpdate" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec09.*" />
+          <option name="PATTERN" value="com.vinsguru.sec13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec14CollectList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec09.Lec14CollectList" />
+    <configuration name="Lec03ContextPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec13.Lec03ContextPropagation" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec09.*" />
+          <option name="PATTERN" value="com.vinsguru.sec13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +248,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec15Then" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec09.Lec15Then" />
+    <configuration name="Lec04ContentRateLimiterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec13.Lec04ContentRateLimiterDemo" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec09.*" />
+          <option name="PATTERN" value="com.vinsguru.sec13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec16Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec09.Lec16Assignment" />
+    <configuration name="Lec08SlackAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinsguru.sec12.Lec08SlackAssignment" />
       <module name="01-reactive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinsguru.sec09.*" />
+          <option name="PATTERN" value="com.vinsguru.sec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,21 +276,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lec16Assignment" />
-        <item itemvalue="Application.Lec15Then" />
-        <item itemvalue="Application.Lec14CollectList" />
-        <item itemvalue="Application.Lec13ConcatMap" />
-        <item itemvalue="Application.Lec12FluxFlatMapAssignment" />
+        <item itemvalue="Application.Lec04ContentRateLimiterDemo" />
+        <item itemvalue="Application.Lec03ContextPropagation" />
+        <item itemvalue="Application.Lec02ContextAppendUpdate" />
+        <item itemvalue="Application.Lec01Context" />
+        <item itemvalue="Application.Lec08SlackAssignment" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -290,7 +301,16 @@
       <workItem from="1747061904165" duration="6229000" />
       <workItem from="1747674907800" duration="6577000" />
       <workItem from="1747837880081" duration="6433000" />
-      <workItem from="1747914883995" duration="22922000" />
+      <workItem from="1747914883995" duration="38656000" />
+      <workItem from="1748268104891" duration="52574000" />
+      <workItem from="1748974678964" duration="1486000" />
+      <workItem from="1749058056430" duration="5665000" />
+      <workItem from="1749145905479" duration="8169000" />
+      <workItem from="1749576503153" duration="2657000" />
+      <workItem from="1750580609918" duration="47000" />
+      <workItem from="1750681669691" duration="2000" />
+      <workItem from="1750681676402" duration="101000" />
+      <workItem from="1750681806733" duration="7467000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <option name="closed" value="true" />
